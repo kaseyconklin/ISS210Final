@@ -17,3 +17,91 @@
  </p>
 <P> I am a current freshman at both the MSC and Lakeview High School. I'm heavily involved with music (both playing and listening), and when I'm not working or school or music, I usually spend my time reading. I'm an aspiring osteopathic pediatrician, and everyday I'm working on getting to that status. My current dream college is the University of Michigan. I am fully aware that it's a highly selective school, so I'm attempting to apply myself as much as I can within the community to make an impact not just in school, but outside of it too.
 </p>
+
+<h2>My favorite moments this school year</h2>
+ <li>The unexpected mid-winter break</li>
+ <li>Making new friends and deepening my other friendships</li>
+ <li>Going ice skating for the first time with an awesome group of people :)</li>
+ <li>Going to the Meijer by Lakeview with my best friends to buy ice cream during the insane windchill weather (it was an experience and a half)</li>
+ <li>Sitting next to the most helpful people in tech; they're grade savers (cough @Alison and Aiden)</li>
+
+ <p>
+   <a href="https://youtu.be/upUbAY8unQI">My favorite DCI show</a>
+ </p>
+
+ <h1>Notable Favorites</h2>
+
+<form action="https://youtu.be/HE5RUNGfL_w">
+    <input type="submit" value="This video" />
+</form>
+
+<p>
+  <table align="middle">
+   <thead>
+     <tr>
+       <th>MUSIC</th>
+       <th>BOOKS</th>
+       <th>MISC.</th>
+     </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <td>IDKHBTFM</td>
+       <td>Cruel Beauty</td>
+       <td>Rain</td>
+     </tr>
+     <tr>
+       <td>Conan Gray</td>
+       <td>The Young Elites</td>
+       <td>The sound of water</td>
+     </tr>
+     <tr>
+       <td>P!ATD</td>
+       <td>The Rose Society</td>
+       <td>Chikorita</td>
+     </tr>
+     <tr>
+       <td>TØP</td>
+       <td>The Midnight Star</td>
+       <td>Neon lights & arcades</td>
+     </tr>
+     <tr>
+       <td>Declan McKenna</td>
+       <td>Ready Player One</td>
+       <td>Nostalgia</td>
+     </tr>
+     <tr>
+       <td>The Brobecks</td>
+       <td>The Cricket in Times Square</td>
+       <td>Anyting and everything celstial</td>
+     </tr>
+   </tbody>
+ </table>
+
+ <h2>Museum of KC</h2>
+<img src="images/moose.jpg" height=190px />
+<img src="images/nyoom.png" height=190px />
+<img src="images/meincar.jpg" height=190px />
+<img src="images/dad and grand.gif" height=190px />
+<img src="images/unbreakable.png" height=190px />
+<img src="images/Allstate.png" height=190px />
+<img src="images/yuik.jpg" height=190px />
+<img src="images/RAK.jpg" height=190px />
+<img src="images/christine.png" height=190px />
+<img src="images/Allcity.png" height=190px />
+<img src="images/Allstate.2.png" height=190px />
+<img src="images/faceswap.jpg" height=190px />
+<img src="images/jordan.jpg" height=190px />
+<img src="images/marionette.jpg" height=190px />
+<img src="images/yuiko.png" height=190px />
+<img src="images/olive.png" height=190px />
+</p>
+
+<h2>Navigation:</h2>
+
+<a href="homeschool.htm" /> <img src="images/lakeview.jpg" alt="A picture of Lakeview High Shool linking to the homeschool page." align="left"/>
+<a href="bcamsc.htm" /> <img src="images/bcamsc.jpg" alt="A picture of the Battle Creek Area Mathematics and Science Center linking to the BCAMSC page." align="left"/>
+<a href="jscript.htm" /> <img src="images/pearandleg.gif" alt="A picture of the Pokemon "Chikorita" linking to the javascript page." align="left" height=160px/>
+
+
+</html>
